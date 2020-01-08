@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>SignalR چت</title>
+    <style type="text/css">
+        .container-messages {
+            padding: 20px;
+            margin: 20px;
+            max-height:600px;
+            min-height:600px;
+            border:1px solid #ff00dc;
+        }
+        .container {
+            background-color: #ffd800;
+            border: 1px solid #808080;
+            padding: 20px;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container-messages">
+        <ul id="discussion"></ul>
+    </div>
+
+    <div class="container">
+        <input type="text" id="message" />
+        <input type="button" id="sendmessage" value="Send" />
+        <input type="hidden" id="displayname" />
+        
+    </div>
+    
+    <script src="Scripts/jquery-1.6.4.min.js" "></script>
+    <script src="/Scripts/jquery.signalR-2.0.0.js"></script>
+    <script src="/signalr/hubs"></script>
+    
+
+    <script type="text/javascript">
+        $(function () {
+
+            //get username
+            $('#displayname').val(prompt('Enter your name:', ''));
+
+
+            var chat = $.connection.chatHub;
+            chat.client.broadcastMessage = function (name, message) {
+                var encodedName = $('<div />').text(name).html();
+                var encodedMsg = $('<div />').text(message).html();
+                
+                $('#discussion').append('<li><strong>' + encodedName + '</strong>: ' + encodedMsg + '</li>');
+            };
+            
+            $('#message').focus();
+            $.connection.hub.start().done(function () {
+                $('#sendmessage').click(function () {
+                    chat.server.send($('#displayname').val(), $('#message').val());
+                    
+                    $('#message').val('').focus();
+                });
+            });
+        });
+    </script>
+</body>
+</html>

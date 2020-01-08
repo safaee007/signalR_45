@@ -1,0 +1,42 @@
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\SignalRChat.dll.config
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\SignalRChat.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\SignalRChat.pdb
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Owin.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.xml
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\obj\Debug\SignalRChat.csprojResolveAssemblyReference.cache
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Users\Esmaeil\Desktop\SignalR Getting Started Application\C#\SignalRChat\obj\Debug\SignalRChat.pdb
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\SignalRChat.dll.config
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\SignalRChat.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\SignalRChat.pdb
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.Owin.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.Owin.Security.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Newtonsoft.Json.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Owin.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.Owin.xml
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Microsoft.Owin.Security.xml
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\bin\Newtonsoft.Json.xml
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\obj\Debug\SignalRChat.csprojAssemblyReference.cache
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\obj\Debug\SignalRChat.csproj.CoreCompileInputs.cache
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\obj\Debug\SignalRChat.csproj.CopyComplete
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\obj\Debug\SignalRChat.dll
+I:\User-Profiles\Saeed Safaee\MyFiles\SignalR-Chat\C#\SignalRChat\obj\Debug\SignalRChat.pdb
